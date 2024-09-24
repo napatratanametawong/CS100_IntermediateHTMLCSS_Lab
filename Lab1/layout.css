@@ -3,3 +3,54 @@
     padding: 0px;
     box-sizing: border-box;
 }
+
+body {
+    width: 100%;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: yellow;
+    border: 1px gray solid;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+
+nav {
+    background-color: yellow;
+    border: 1px gray solid;
+    text-align: center;
+    padding: 10px;
+    float: left;
+    width: 20%;
+    height: 200px;
+}
+
+article {
+    background-color: yellow;
+    border: 1px gray solid;
+    text-align: center;
+    padding: 10px;
+    float: left;
+    width: 60%;
+    height: 200px;
+}
+div {
+    background-color: yellow;
+    border: 1px gray solid;
+    text-align: center;
+    padding: 10px;
+    float: left;
+    width: 20%;
+    height: 200px;
+}
+
+footer {
+    background-color: yellow;
+    border: 1px gray solid;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    clear: both;
+}
